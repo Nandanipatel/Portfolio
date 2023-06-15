@@ -1,7 +1,7 @@
 import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../assets/twitter.png";
-import IMG2 from "../../assets/todo.png";
+import IMG2 from "../../assets/prakalpa.png";
 import IMG3 from "../../assets/weather.png";
 import IMG4 from "../../assets/portfolio.png";
 
@@ -15,8 +15,8 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "ToDo App",
-    github: "https://github.com/Nandanipatel/ToDo-application-",
+    title: "Prakalpa.org",
+    github: "https://www.prakalpa.org/",
   },
   {
     id: 3,

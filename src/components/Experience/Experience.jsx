@@ -1,7 +1,7 @@
 import React from "react";
 import "./Experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
-import { SiHtml5 , SiCss3, SiJavascript,SiReact,SiBootstrap,SiMysql,SiPython,SiPhp} from "react-icons/si";
+import { SiHtml5 , SiCss3, SiJavascript,SiReact,SiFlutter,SiMysql,SiPython,SiPhp} from "react-icons/si";
 const Experience = () => {
   return (
     <section id="experience">
@@ -41,9 +41,9 @@ const Experience = () => {
             </div>
 
             <div className="experience_details">
-              <SiBootstrap className="experience_details-icon" />
+              <SiFlutter className="experience_details-icon" />
               <div className="icon-data">
-                <h4>Bootstrap</h4>
+                <h4>Flutter</h4>
                 {/* <small className="text-light">Experienced </small> */}
               </div>
             </div>
@@ -56,9 +56,9 @@ const Experience = () => {
             </div>
 
             <div className="experience_details">
-              <SiPhp className="experience_details-icon" />
+              <SiReact className="experience_details-icon" />
               <div className="icon-data">
-                <h4>PHP</h4>
+                <h4>React Native</h4>
                 {/* <small className="text-light">Experienced </small> */}
               </div>
             </div>

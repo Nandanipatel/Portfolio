@@ -49,7 +49,7 @@ const Footer = () => {
       </div>
 
       <div className="footer_copyright">
-        <small>&copy; Copyright 2022 NANDANI PATEL.</small>
+        <small>&copy; Copyright 2023 NANDANI PATEL.</small>
       </div>
     </footer>
   );
